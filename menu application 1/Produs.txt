@@ -1,0 +1,6 @@
+1,masinuta,albastru,300,zalau
+2,chitara,negru,400,zalau
+3,masinuta1,verde,200,Brasov
+4,masinuta2,alb,300,Cluj-Napoca
+5,jucarie,maro,500,Brasov
+6,ursulet,maro,600,Cluj-Napoca

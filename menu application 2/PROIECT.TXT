@@ -1,0 +1,8 @@
+unu,contruirea unei nave,nava,12,Cluj-Napoca
+doi,fabricare masina,golf,30,Bucuresti
+trei,agricultura,grau,40,Zalau
+cinci,dulciuri,cicolata,100,Sibiu
+sapte,dulciuri,bomboane,20,Sibiu
+noua,aterizare avioane,aeroport,1,Brasov
+zece,vinuri,vin alb,300,Bucuresti
+opt,mezeluri,salam,200,Oradea
